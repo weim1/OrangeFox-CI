@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_fleur.git -b fox_12.1_R"
+export DT_LINK="https://github.com/weim1/device_xiaomi_fleur.git -b fox_12.1"
 
 export DEVICE="fleur"
 export OEM="xiaomi"
